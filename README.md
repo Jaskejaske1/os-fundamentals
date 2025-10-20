@@ -5,7 +5,7 @@ De code is bedoeld als **portfolio en studiemateriaal** om mijn voortgang te ton
 
 ## Structuur
 
-- er is een map `labo` met daarin oplossingen voor labo-opdrachten
+- er is een map `lab` met daarin oplossingen voor labo-opdrachten
 
 ## Licentie
 
